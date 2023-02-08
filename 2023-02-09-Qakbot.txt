@@ -1,0 +1,35 @@
+#Qakbot C2's observed on 2023/02/09 @HuntressLabs
+
+#C2's
+
+hxxp://146.59.43.159/780683.dat
+hxxp://174.139.150.45/653219.dat
+hxxp://45.155.37.170/300332.dat 
+hxxp://45.77.63.210/760433.dat
+hxxp://5.42.221.116/197928.dat  
+hxxp://85.239.41.55/703558.dat
+hxxp://87.236.146.155/553145.dat
+hxxp://98.142.254.89/452845.dat
+
+#Onenote File Names
+
+AgreementCancelation_219051(Feb08).one
+AgreementCancelation_503461(Feb08).one
+AgreementCancelation_551521(Feb08).one
+Arg (2) (1).one
+Contracts.one
+
+#Saved File Names
+C:\programdata\a4KNkUvB.jpg
+C:\programdata\aA9Qq1dIT.jpg
+C:\programdata\aasXfQxd.jpg
+C:\programdata\aE73B.jpg
+C:\programdata\aEkDSL5.jpg
+C:\programdata\ak05Edj.jpg
+C:\programdata\akTZw8CH.jpg
+C:\programdata\alBkDW.jpg
+C:\programdata\amJ2WLyM.jpg
+C:\programdata\aq8k6x.jpg
+C:\programdata\axFdHm3Q.jpg
+C:\programdata\aYmyWrBC.jpg
+C:\programdata\aZNOz0.jpg
