@@ -1,5 +1,7 @@
 #Qakbot C2's observed on 2023/02/08 @HuntressLabs
 
+#C2's
+
 hxxp://154[.]7[.]253[.]191/72363[.]dat
 hxxps://starcomputadoras[.]com/lt2eLM6/01[.]gif
 hxxps://shifa365[.]com/hgxU5/01[.]gif
@@ -12,3 +14,34 @@ hxxps://nerulgymkhana[.]com/CCoN/01[.]gif
 hxxps://tassoinmobiliaria[.]com/56G0/01[.]gif
 hxxp://213[.]169[.]148[.]78/83327[.]dat
 hxxps://jewishlabourbundarchive[.]net/zdtK9c/01[.]gif
+
+
+#Onenote File Names
+
+Cancellation.one
+Document.one
+Funds_112846.one
+Funds_205273.one
+Funds_256306.one
+Funds_271432.one
+Funds_325988.one
+Funds_444949.one
+Funds_469359.one
+Funds_499295.one
+Funds_598848.one
+Funds_599149.one
+Funds_605362.one
+Funds_694412 (003).one
+Funds_764169.one
+Item.one
+Note.one
+Notes.one
+Original.one
+cancellation.one
+document.one
+item.one
+notes (002).one
+notes.one
+original (002).one
+original.one
+test.one
