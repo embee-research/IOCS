@@ -11,6 +11,11 @@ hxxp://85.239.41.55/703558.dat
 hxxp://87.236.146.155/553145.dat
 hxxp://98.142.254.89/452845.dat
 
+hxxps://ozcontests.com/tE3xt/01.png
+hxxps://qualityrepairatdoor.com/lmSQNui/01.png
+hxxps://sahifatinews.com/jZbaw/01.png
+hxxps://thetwindollar.com/L7PJjN/01.png
+
 #Onenote File Names
 
 AgreementCancelation_219051(Feb08).one
